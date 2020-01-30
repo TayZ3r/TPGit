@@ -14,7 +14,7 @@ Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses out
 
 ### Liste d'outils graphiques
 
-* Git GUI (Windows, Linux, MacOS)
+* Git GUI (Windows, Linux, MafeOS)
 
 ### Plateformes de gestion de dépôt
 
